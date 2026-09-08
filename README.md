@@ -109,6 +109,7 @@ logical thinking, coding skills, and prepare for technical interviews.
 
 | Topic | Status |
 |------|--------|
+| LogicBuilding |  |
 | Arrays |  |
 | Strings |  |
 | Hashing |  |
