@@ -109,7 +109,10 @@ logical thinking, coding skills, and prepare for technical interviews.
 
 | Topic | Status |
 |------|--------|
-| LogicBuilding |  |
+| LogicBuilding |  ✅|
+| Sorting - 1 |  ✅|
+| Sorting - 2 |  ✅|
+| Hashing |  ✅|
 | Arrays |  |
 | Strings |  |
 | Hashing |  |
