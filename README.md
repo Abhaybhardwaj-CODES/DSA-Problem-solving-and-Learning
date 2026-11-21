@@ -128,7 +128,7 @@ logical thinking, coding skills, and prepare for technical interviews.
 | Graphs |  |
 | Dynamic Programming |  |
 
-**Problems Solved:** 0  
+**Problems Solved:** 74 
 **Current Topic:** Getting Started  
 **Language:** Python 🐍
 
