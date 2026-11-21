@@ -113,11 +113,11 @@ logical thinking, coding skills, and prepare for technical interviews.
 | Sorting - 1 |  ✅|
 | Sorting - 2 |  ✅|
 | Hashing |  ✅|
-| Arrays |  |
+| Arrays | ✅ |
 | Strings |  |
-| Hashing |  |
+
 | Searching ||
-| Sorting |  |
+| Sorting |✅ |
 | Two Pointers |  |
 | Sliding Window | |
 | Linked Lists |  |
